@@ -1,5 +1,11 @@
 # 💼 AI Business Helper — Streamlit App
 
+
+
+🔗 **Live Demo:** https://share.google/0f2DLHEIaCrQTAfA4
+📂 **Source Code:** This GitHub repository
+
+
 AI Business Helper is a simple and powerful Streamlit-based tool designed for **local shops and small businesses**.  
 It helps with **sentiment analysis, AI-based pricing, sales forecasting, and business FAQs**.
 
